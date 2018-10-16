@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/dominio/Solicitud.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/web/exito.jsp</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/controlador/ReporteControlador.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/dao/UsuarioDAO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/web/index.html</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/dao/SolicitudDAO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/dominio/Soporte.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/dominio/SolicitudDTO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/dao/ReporteDAO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/dominio/SoporteDTO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/entidad/UsuarioImp.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/dominio/Usuario.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/web/Solicitud.jsp</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/controlador/SoporteControlador.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/dao/SoporteDAO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/controlador/SolicitudControlador.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/controlador/UsuarioControlador.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/dominio/UsuarioDTO.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/entidad/ReporteImp.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/entidad/SolicitudImp.java</file>
+            <file>file:/Users/itmanager/NetBeansProjects/MITSWeb/src/java/com/persistencia/entidad/SoporteImp.java</file>
+        </group>
+    </open-files>
+</project-private>
