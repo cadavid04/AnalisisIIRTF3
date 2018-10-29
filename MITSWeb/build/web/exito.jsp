@@ -4,10 +4,13 @@
     Author     : itmanager
 --%>
 
-<%@page import="modelo.Solicitud"%>
+
+
+<%@page import="com.dominio.SolicitudDTO"%>
+
 <%
     
-Solicitud s1 = (Solicitud)request.getSession().getAttribute("solicitud1");
+SolicitudDTO s1 = (SolicitudDTO)request.getSession().getAttribute("solicitud1");
 
 %>    
 
@@ -20,9 +23,9 @@ Solicitud s1 = (Solicitud)request.getSession().getAttribute("solicitud1");
     </head>
     <body>
         <h1>Registro exitoso</h1>
-        <p>ID:<%= s1.getIdSolicitud() %> </p>
-        <p>Descripción:<%= s1.getDescripcion() %> </p>
+        <p>ID:<%= s1.getIdSolicitud()%></p>
+        <p>Descripción:<%= s1.getDescripcion()%></p>
         <p>Estado:<%= s1.getEstado() %> </p>
-         <p>Tipo solicitud:<%= s1.getTipoSolicitud() %> </p>
+         <p>Tipo solicitud:<%= s1.getTipoSolicitud()%></p>
     </body>
 </html>
